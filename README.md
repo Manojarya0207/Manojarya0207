@@ -1,10 +1,11 @@
-[Manoj S Arya Resume(2025).pdf](https://github.com/user-attachments/files/23238628/Manoj.S.Arya.Resume.2025.pdf)# Hi! 👋😊 I Am Manoj S Arya
+# Hi! 👋😊 I Am Manoj S Arya
+
 # 💫 About Me:
 I'm Manoj Arya. 👨‍🎓 I am a student at the Govt. Tool Room and Training Center, Magadi. 🏫 I am pursuing my studies in the AI/ML department 🤖📊. I am passionate about artificial intelligence and machine learning ❤️🧠. I enjoy solving real-world problems using technology 🛠️🌍. I strive to keep learning and improving my technical skills 📚💻. My goal is to contribute to innovative projects in the AI/ML field 🚀✨. Collaboration and teamwork are my strengths 🤝👨‍💻. I believe in lifelong learning and staying curious 🔍🧠. Outside academics, I enjoy exploring new ideas and Problem Solving in Tach.
 
 ⚡ Fun fact: I love working on optimizations and will always give a shot on optimizing your codebase/architecture
 
-📑 [Check out my resume here - My Resume]()[Manoj S Arya Resume(2025).pdf](https://github.com/user-attachments/files/23238673/Manoj.S.Arya.Resume.2025.pdf)
+📑 [Check out my resume here - My Resume](https://github.com/user-attachments/files/23238673/Manoj.S.Arya.Resume.2025.pdf)
 
 
 
