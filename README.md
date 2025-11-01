@@ -5,7 +5,7 @@ I'm Manoj Arya. 👨‍🎓 I am a student at the Govt. Tool Room and Training C
 
 ⚡ Fun fact: I love working on optimizations and will always give a shot on optimizing your codebase/architecture
 
-📑 Check out my resume here - [My Resume](https://github.com/user-attachments/files/23238673/Manoj.S.Arya.Resume.2025.pdf)
+📑 Check out my resume here - [My Resume](   )
 
 
 ## 🌐 Socials:
