@@ -6,7 +6,7 @@ I'm Manoj Arya. 👨‍🎓 I am a student at the Govt. Tool Room and Training C
 ⚡ Fun fact: I love working on optimizations and will always give a shot on optimizing your codebase/architecture 
 
 📑 Check out my resume here - [My Resume](https://github.com/user-attachments/files/23294988/Manoj.S.Arya.Resume.2025.pdf)
- 
+  
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_manojarya_.07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/manoj-arya-192b16356) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manojarya0207@gmail.com) 
