@@ -2,7 +2,7 @@
  
 # 💫 About Me:
 I'm Manoj Arya. 👨‍🎓 I am a student at the Govt. Tool Room and Training Center, Magadi. 🏫 I am pursuing my studies in the AI/ML department 🤖📊. I am passionate about artificial intelligence and machine learning ❤️🧠. I enjoy solving real-world problems using technology 🛠️🌍. I strive to keep learning and improving my technical skills 📚💻. My goal is to contribute to innovative projects in the AI/ML field 🚀✨. Collaboration and teamwork are my strengths 🤝👨‍💻. I believe in lifelong learning and staying curious 🔍🧠. Outside academics, I enjoy exploring new ideas and Problem Solving in Tach.<br><br>⚡ Fun fact: I love working on optimizations and will always give a shot on optimizing your codebase/architecture    
-         
+          
   
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/https://www.instagram.com/_manojarya_.07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/manoj-arya-192b16356/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manojarya0207@gmail.com) 
