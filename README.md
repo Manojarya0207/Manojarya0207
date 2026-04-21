@@ -1,3 +1,5 @@
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Manojarya0207&label=Profile%20views&color=0e75b6&style=flat" alt="Manojarya0207" /> </p>
   
 # 💫 About Me:
@@ -23,5 +25,7 @@ I'm Manoj Arya. 👨‍🎓 I am a student at the Govt. Tool Room and Training C
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Manojarya0207) 
 
-  
+  <h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/Manojarya0207"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Manojarya0207" /></a></p><br><br>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
