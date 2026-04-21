@@ -1,9 +1,11 @@
 
 <h1 align="center">Hi 👋, I'm Manoj S Arya</h1>
 <h3 align="center">A passionate developer from India 🇮🇳 </h3>
-- 🌱 I’m currently learning **System Design and Agentic AI**
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Manojarya0207&label=Profile%20views&color=0e75b6&style=flat" alt="Manojarya0207" /> </p>
-  
+
+- 🌱 I’m currently learning **System Design and Agentic AI**
+
 # 💫 About Me:
 I'm Manoj Arya. 👨‍🎓 I am a student at the Govt. Tool Room and Training Center, Magadi. 🏫 I am pursuing my studies in the AI/ML department 🤖📊. I am passionate about artificial intelligence and machine learning ❤️🧠. I enjoy solving real-world problems using technology 🛠️🌍. I strive to keep learning and improving my technical skills 📚💻. My goal is to contribute to innovative projects in the AI/ML field 🚀✨. Collaboration and teamwork are my strengths 🤝👨‍💻. I believe in lifelong learning and staying curious 🔍🧠. Outside academics, I enjoy exploring new ideas and Problem Solving in Tach.<br><br>⚡ Fun fact: I love working on optimizations and will always give a shot on optimizing your codebase/architecture    
           
