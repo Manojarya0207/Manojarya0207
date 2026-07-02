@@ -4,10 +4,33 @@
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Manojarya0207&label=Profile%20views&color=0e75b6&style=flat" alt="Manojarya0207" /> </p>
    
-- 🌱 I’m currently learning **System Design and Agentic AI**    
-   
-# 💫 About Me:
-I'm Manoj Arya. 👨‍🎓 I am a student at the Govt. Tool Room and Training Center, Magadi. 🏫 I am pursuing my studies in the AI/ML department 🤖📊. I am passionate about artificial intelligence and machine learning ❤️🧠. I enjoy solving real-world problems using technology 🛠️🌍. I strive to keep learning and improving my technical skills 📚💻. My goal is to contribute to innovative projects in the AI/ML field 🚀✨. Collaboration and teamwork are my strengths 🤝👨‍💻. I believe in lifelong learning and staying curious 🔍🧠. Outside academics, I enjoy exploring new ideas and Problem Solving in Tach.<br><br>⚡ Fun fact: I love working on optimizations and will always give a shot on optimizing your codebase/architecture    
+## About Me
+
+I am **Manoj Arya**, an aspiring **AI/ML Engineer**, **Mobile Application Developer**, and the **Founder of [Bharath Aadhya Intelligence](https://bharath-aadhya-intelligence.github.io/Bharath-Aadhya-Intellignce/)**. Currently, I am pursuing my studies at the **Government Tool Room and Training Center (GTTC), Magadi**, specializing in **Artificial Intelligence and Machine Learning**.
+
+I am passionate about building intelligent, scalable, and impactful technology solutions that solve real-world problems. My primary areas of interest include **Artificial Intelligence, Agentic AI, System Design, Machine Learning, Mobile Application Development, and Software Architecture**.
+
+As the founder of [**Bharath Aadhya Intelligence**](https://bharath-aadhya-intelligence.github.io/Bharath-Aadhya-Intellignce/), I focus on developing innovative AI-driven solutions, exploring emerging technologies, and contributing to the advancement of intelligent systems.
+
+I continuously strive to improve my technical expertise through hands-on projects, competitive learning experiences, and research-driven development. I strongly value problem-solving, collaboration, optimization, and lifelong learning.
+
+## Achievements
+
+- Bronze Medalist in the **IndiaSkills Competition** in the **Mobile Application Development** category.
+- Founder of **Bharath Aadhya Intelligence**.
+- Actively preparing for **IndiaSkills and WorldSkills Competitions**.
+- Developed projects in **Artificial Intelligence**, **Machine Learning**, and **Mobile Application Development**.
+
+## Resume
+
+📄 **View My Resume:** [Resume PDF](https://github.com/user-attachments/files/29588363/Manoj_S_Arya_Resume.pdf)
+
+
+---
+
+⚡ **Fun fact:** I love working on optimizations and will always give a shot at optimizing your codebase and architecture.
+
+🌱 **I'm currently learning:** System Design and Agentic AI.   
           
   
 ## 🌐 Socials:
