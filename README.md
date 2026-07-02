@@ -6,7 +6,7 @@
    
 ## About Me
 
-I am **Manoj Arya**, an aspiring **AI/ML Engineer**, **Mobile Application Developer**, and the **Founder of [Bharath Aadhya Intelligence](https://bharath-aadhya-intelligence.github.io/Bharath-Aadhya-Intellignce/)**. Currently, I am pursuing my studies at the **Government Tool Room and Training Center (GTTC), Magadi**, specializing in **Artificial Intelligence and Machine Learning**.
+I am **Manoj S Arya**, an aspiring **AI/ML Engineer**, **Mobile Application Developer**, and the **Founder of [Bharath Aadhya Intelligence](https://bharath-aadhya-intelligence.github.io/Bharath-Aadhya-Intellignce/)**. Currently, I am pursuing my studies at the **Government Tool Room and Training Center (GTTC), Magadi**, specializing in **Artificial Intelligence and Machine Learning**.
 
 I am passionate about building intelligent, scalable, and impactful technology solutions that solve real-world problems. My primary areas of interest include **Artificial Intelligence, Agentic AI, System Design, Machine Learning, Mobile Application Development, and Software Architecture**.
 
