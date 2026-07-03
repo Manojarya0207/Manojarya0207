@@ -17,7 +17,7 @@ I continuously strive to improve my technical expertise through hands-on project
 ## Achievements
 
 - Bronze Medalist in the **IndiaSkills Competition** in the **Mobile Application Development** category.
-- Founder of **Bharath Aadhya Intelligence**.
+- Founder of **[Bharath Aadhya Intelligence](https://bharath-aadhya-intelligence.github.io/Bharath-Aadhya-Intellignce/)**.
 - Actively preparing for **IndiaSkills and WorldSkills Competitions**.
 - Developed projects in **Artificial Intelligence**, **Machine Learning**, and **Mobile Application Development**.
 
