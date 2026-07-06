@@ -23,7 +23,7 @@ I continuously strive to improve my technical expertise through hands-on project
 
 ## Resume
 
-📄 **View My Resume:** [Resume PDF](https://github.com/user-attachments/files/29588363/Manoj_S_Arya_Resume.pdf)
+📄 **View My Resume:** [Resume PDF](https://drive.google.com/file/d/10JjzPbLNLWXHRLZMr0m6jEqVVPUvcGRN/view)
 
 
 ---
