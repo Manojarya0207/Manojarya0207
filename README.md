@@ -6,7 +6,7 @@
      
 ## About Me 
 
-I am **Manoj S Arya**, an aspiring **AI/ML Engineer**, **Mobile Application Developer**, and the **Founder of Bharath Aadhya Intelligence**. Currently, I am working as a **Software Engineer (SWE) at [Abhyudyaya Techno Solutions Pvt. Ltd.](https://abhyudyayatech.com/)**, where I focus on building innovative software solutions while continuing to expand my expertise in **Artificial Intelligence, Machine Learning, and Mobile Application Development**.
+I am **Manoj S Arya**, an aspiring **AI/ML Engineer**, **Mobile Application Developer**, and the **Founder of Bharath Aadhya Intelligence**. Currently, I am working as a **Software Engineer (SWE) at [Abhyudyaya Techno Solutions Pvt. Ltd.](https://abhyudyayatech.com/)**, where I focus on building innovative software solutions while continuing to expand my expertise in **Artificial Intelligence, Machine Learning, and Mobile Application Development**.    
 
 I am passionate about building intelligent, scalable, and impactful technology solutions that solve real-world problems. My primary areas of interest include **Artificial Intelligence, Agentic AI, System Design, Machine Learning, Mobile Application Development, and Software Architecture**.
 
