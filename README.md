@@ -3,7 +3,7 @@
 <h3 align="center">A passionate developer from India 🇮🇳 </h3>           
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Manojarya0207&label=Profile%20views&color=0e75b6&style=flat" alt="Manojarya0207" /> </p>
-     
+        
 ## About Me 
 
 I am **Manoj S Arya**, an aspiring **AI/ML Engineer**, **Mobile Application Developer**, and the **Founder of Bharath Aadhya Intelligence**. Currently, I am working as a **Software Engineer (SWE) at [Abhyudyaya Techno Solutions Pvt. Ltd.](https://abhyudyayatech.com/)**, where I focus on building innovative software solutions while continuing to expand my expertise in **Artificial Intelligence, Machine Learning, and Mobile Application Development**.    
