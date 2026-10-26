@@ -32,7 +32,7 @@ I continuously strive to improve my technical expertise through hands-on project
 
 ## 🌐 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat\&logo=github\&logoColor=white)](https://github.com/Manojarya0207)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/manoj-arya-192b16356/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat\&logo=instagram\&logoColor=white)](https://www.instagram.com/_manojarya_.07)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat\&logo=gmail\&logoColor=white)](mailto:manojarya0207@gmail.com)
