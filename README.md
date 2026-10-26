@@ -25,7 +25,7 @@ I continuously strive to improve my technical expertise through hands-on project
 
 ## 📄 Resume
 
-📄 **[View My Resume](https://drive.google.com/file/d/1nwMdjSf5QD3P3rPSWrkOph9qX4UWPkWM/view?usp=drive_link)**
+📄 **[View My Resume](https://drive.google.com/file/d/1W-iWOMVhcxc2aSMVFnhZwiNxGgBKIMXD/view?usp=drive_link)**
 
 
 ---
